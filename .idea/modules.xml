@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/k8s-image-lib.iml" filepath="$PROJECT_DIR$/k8s-image-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hfl-docker-images.iml" filepath="$PROJECT_DIR$/hfl-docker-images.iml" />
     </modules>
   </component>
 </project>
