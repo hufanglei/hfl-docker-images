@@ -1,2 +1,2 @@
-FROM maven:3.8.6-temurin-8
+FROM maven:3.5.4
 LABEL maintainer="hufanglei"
