@@ -1,2 +1,2 @@
-FROM node:16.20
+FROM node:16
 LABEL maintainer="hufanglei"
